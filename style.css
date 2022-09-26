@@ -362,6 +362,7 @@ body{
 }
 .section_3 .feature .products{
     display: flex;
+    justify-content: space-between;
     margin: 0px 2%;
 }
 .section_3 .feature .one{
