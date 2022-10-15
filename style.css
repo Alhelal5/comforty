@@ -373,8 +373,9 @@ body{
 }
 .section_3 .feature .one img{
     width: 302px;
-    height: 352px;
-    background: #272343;
+    height: 280px;
+    border-radious: 5px;
+    background: #797979;
 }
 .section_3 .feature .one p{
     padding: 7px 0px;
